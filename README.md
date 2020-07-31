@@ -2,31 +2,33 @@
 
 [Chrome Store](https://chrome.google.com/webstore/detail/youtube-livechat-helper/dihhkdapcdefppaikipkkcfnaieagnmm)でExtensionをインストール
 
-インストール後、YouTubeのビデオページに新しいボタンが追加されます。
+インストール後、YouTubeのビデオページに新しいボタンが追加されます。<br>
 もし見えない場合は、F5でページをリフレッシュしてください。<br>
-![button](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/troggle.png)<br>
+<br>![button](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/troggle.png)<br><br>
 ボタンを押すと、詳細なメニューが表示されます。<br>
-![button](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/troggle_b.png)
+<br>![button](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/troggle_b.png)
 
 ## 流れコメント
-![flowComment](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/set_commet.png)<br>
+<br>![flowComment](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/set_commet.png)<br><br>
 スタートを押すと新しウィンドウがポップします。<br>
 フィルターを使って背景色を透明してれば配信に使えます(デフォルトの背景色は#0007ed321)。<br>
 設定できる部分は、普通のコメントの場合（視聴者が色変更とかのコマンドをしていない場合）の設定になります。<br>
 設定をいじる時、「デフォルト」の文字が設定を反応してますので、参考にるかもしれません。<br>
 実際のPop Upする画像は<br>
-![flowComment](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/description_2.png)<br>
+<br>![flowComment](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/description_2.png)<br><br>
 
 ## コメントパターンマッチング
-![flowComment](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/set_commet.png)<br>
+<br>![flowComment](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/set_pattern.png)<br><br>
 ### パターン追加の方法
 パターンフィールドに入力<br>
 「ファイルを選択」を押して、ファイルを選択<br>
 「パターンを追加」を押す<br>
 すると、テーブルに新しい記録が追加されます。<br>
+スタートを押すとマッチングが開始します<br><br>
+
 ### パターンを削除の方法
 「利用する」のチェックを外す、或いは「削除」列の「X」を押す<br>
-利用モードと音量は、実際ファイルとパターンを追加してから「テスト」を連打して、実感する方が理解しやすいかもしれない<br>
+利用モードと音量は、実際追加してから「テスト」を連打して、実感する方が理解しやすいかもしれない<br>
 パターンの追加や削除、利用モードと音量は直接反映されます。<br>
 パターンとファイルは、ご利用のPCにセーブされるので一回セットすれば次回にも使えます。<br>
 利用モードと音量は毎回リセットします。<br>
