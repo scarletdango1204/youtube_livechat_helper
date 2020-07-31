@@ -3,22 +3,22 @@
 [Chrome Store](https://chrome.google.com/webstore/detail/youtube-livechat-helper/dihhkdapcdefppaikipkkcfnaieagnmm)でExtensionをインストール
 
 インストール後、YouTubeのビデオページに新しいボタンが追加されます。
-もし見えない場合は、F5でページをリフレッシュしてください。
-![button](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/troggle.png)
-ボタンを押すと、詳細なメニューが表示されます。
+もし見えない場合は、F5でページをリフレッシュしてください。<br>
+![button](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/troggle.png)<br>
+ボタンを押すと、詳細なメニューが表示されます。<br>
 ![button](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/troggle_b.png)
 
 ## 流れコメント
-![flowComment](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/set_commet.png)
+![flowComment](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/set_commet.png)<br>
 スタートを押すと新しウィンドウがポップします。StreamlabOBSでのフィルターを使い、背景色を透明してれば配信に使えます。
 入力できるフォームは、普通のコメントの場合（視聴者が色変更とかのコマンドをしていない場合）の設定になります。
 設定をいじる時、「デフォルト」の文字が設定を反応してますので、参考にるかもしれません。
 
-実際のPop Upする画像は
-![flowComment](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/description_2.png)
+実際のPop Upする画像は<br>
+![flowComment](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/description_2.png)<br>
 
 ## コメントパターンマッチング
-![flowComment](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/set_commet.png)
+![flowComment](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/set_commet.png)<br>
 ### パターン追加の方法
 パターンフィールドに入力
 「ファイルを選択」を押して、ファイルを選択
