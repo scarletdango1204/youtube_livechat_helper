@@ -9,10 +9,10 @@
 <br>![button](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/troggle_b.png)<br><br>
 20200825追記<br>
 もしコメント欄をスクロールして、下記みたいの下向き矢印が出る場合は、このプラグインは反応しなくなります。<br>
-<br>!(https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/bug_a.png)<br><br>
+<br>![bug_handle](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/bug_a.png)<br><br>
 この場合は、そのボタンを押して、一番下まで戻れば作動が復活します。<br>
 コメント欄を使えたい場合は、下記の手順を参考してください<br>
-<br>!(https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/bug_b.png)<br><br>
+<br>![bug_handle](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/bug_b.png)<br><br>
 コメント欄の右上の点を押して、「チャットをポップアウト」を選択。<br>
 このポップアウトしたコメント欄をいじってもプラグインは作動します。<br>
 
