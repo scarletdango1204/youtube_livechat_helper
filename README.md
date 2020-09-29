@@ -2,6 +2,14 @@
 
 [Chrome Store](https://chrome.google.com/webstore/detail/youtube-livechat-helper/dihhkdapcdefppaikipkkcfnaieagnmm)でExtensionをインストール
 
+20200930追記<br>
+バージョン2.0をリリースするために審議を提出しました
+更新点
+・特定の操作下で、Chromeに大幅に性能的な問題についてを解決
+・もしチャット欄がアクセスできない場合、下記のメッセージが表示されます。
+<br>![button](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/err.png)<br><br>
+この場合は、チェット欄が正常に表示されることを確認してからもう一度スタートを押してください。
+
 インストール後、YouTubeのビデオページに新しいボタンが追加されます。<br>
 もし見えない場合は、F5でページをリフレッシュしてください。<br>
 <br>![button](https://github.com/scarletdango1204/youtube_livechat_helper/blob/master/img/troggle.png)<br><br>
